@@ -16,8 +16,8 @@ The repository is a *work in progress* project that will evolve with new analyse
 
 - ### Completed:
 	- Land Surface Temperature overview: Initial exploration and visualization of land surface temperature across Szczecin.
-		- [View LST Plot (Raster Transformed to Polygons)](plots\lst_raster_to_polygons.html)
-		- [View LST Zonal Statistics](plots\lst_zonal_stats.html)
+		- [View LST Plot (Raster Transformed to Polygons)](plots/lst_raster_to_polygons.html)
+		- [View LST Zonal Statistics](plots/lst_zonal_stats.html)
 - ### In progress:
 	- Normalized Difference Vegetation Index (NDVI) overview
 - ### Future plans:
