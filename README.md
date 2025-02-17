@@ -1,8 +1,8 @@
-# Szczecin-GeoLab
+# szczecin-geospatial-analysis
 
 
 ## Overview
-Szczecin GeoLab is a geospatial analysis portfolio dedicated to environmental and urban studies in Szczecin, Poland. This project is designed to enhance geospatial data analysis skills and showcase data visualization techniques, focusing on themes related to urban climate, vegetation health, and land use and it aims to provide insights into environmental changes and urban dynamics
+szczecin-geospatial-analysis is a geospatial analysis portfolio dedicated to environmental and urban studies in Szczecin, Poland. This project is designed to enhance geospatial data analysis skills and showcase data visualization techniques, focusing on themes related to urban climate, vegetation health, and land use and it aims to provide insights into environmental changes and urban dynamics
 
 ## Objectives
 This repository serves as a space for in-depth geospatial analysis and visualization, with a focus on the following objectives:
